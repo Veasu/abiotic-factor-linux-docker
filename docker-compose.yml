@@ -9,8 +9,6 @@ services:
       - MaxServerPlayers=6
       - Port=7777
       - QueryPort=27015
-      - ServerPassword=password
-      - SteamServerName=Linux Server
       - UsePerfThreads=true
       - NoAsyncLoadingThread=true
       - WorldSaveName=Cascade
